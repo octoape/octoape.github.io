@@ -1,0 +1,7 @@
+*.lock
+*.bak
+*.swap
+*.tmp
+/public/
+/node_modules/
+/resources/
