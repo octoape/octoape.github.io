@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="9.7049704mm"
+   height="9.7098703mm"
+   viewBox="0 0 9.7049707 9.7098707"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="C:\Users\jason\Desktop\avatars\N.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74029882"
+     inkscape:cx="336.35066"
+     inkscape:cy="490.34253"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-16.101515,-18.977583)">
+    <rect
+       style="opacity:0.93;fill:#000000;stroke-width:0.0438772"
+       id="rect125"
+       width="9.7049704"
+       height="9.674099"
+       x="16.101515"
+       y="18.977583"
+       rx="0.12516135"
+       ry="0.12476321"
+       inkscape:export-filename="C:\Users\jason\Desktop\avatars\N.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       aria-label="8"
+       transform="matrix(0.07173228,0,0,0.0715041,14.948355,17.618444)"
+       id="text737"
+       style="font-size:113.716px;line-height:1.25;font-family:'Extra Step';-inkscape-font-specification:'Extra Step, Normal';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:2.84285">
+      <path
+         d="m 89.339085,136.43523 q 6.440945,11.43823 18.434425,17.65707 -17.323918,2.99837 -33.870484,-6.66305 -13.326095,-7.8846 -19.100735,-19.98914 -6.885149,-14.54765 1.221558,-26.76324 4.997285,-7.4404 14.880805,-12.659787 Q 62.575845,78.133564 67.573131,68.694247 71.68201,60.920692 82.120784,57.700219 91.115897,55.035 100.44416,57.478118 86.562815,75.024142 83.120241,96.901146 79.677666,119.44446 89.339085,136.43523 Z M 114.99182,90.793353 q 14.10345,7.551453 19.98914,20.211247 6.32989,13.77029 -0.44421,26.43008 -4.55308,8.43986 -12.65979,11.54928 -5.55253,2.22102 -10.99402,0.77736 Q 99.333655,146.09664 92.559557,132.8816 84.119698,116.66819 87.784374,95.790638 91.337999,76.2457 104.99725,58.921778 q 9.88352,3.886777 13.88134,12.104535 4.55309,9.217215 -1.66576,17.323923 -0.99946,1.332609 -2.22101,2.443117 z m -5.33044,-37.535165 q -2.66522,3.109422 -4.66413,5.66359 -1.55472,-0.555254 -4.55309,-1.44366 0.99946,-1.443661 3.22048,-4.108879 1.66576,-1.998915 2.44311,-2.998372 z"
+         id="path103" />
+    </g>
+  </g>
+</svg>
